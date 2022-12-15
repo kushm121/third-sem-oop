@@ -1,3 +1,4 @@
+//simple swing example
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
